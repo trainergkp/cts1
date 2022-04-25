@@ -2,3 +2,5 @@ java
 dot not
 php
 python
+node.js
+angular
